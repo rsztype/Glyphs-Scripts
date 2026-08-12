@@ -405,6 +405,7 @@ All the scripts show a **tooltip** when you hover the mouse pointer over their m
 * **Language Report:** Tries to give you a preliminary idea about how many and which languages are supported with your Latin characters. Based on Underware’s Latin-Plus list, with modifications.
 * **Pangram Helper:** Helps you write a pangram, which you can copy into the clipboard, or put into a new tab. *Needs Vanilla.*
 * **Report Highest and Lowest Glyphs:** Reports glyphs with highest and lowest bounding boxes for all masters.
+* **Specimenizer:** Creates an HTML type specimen for the current font inside the current Webfont Export folder: cover, style overview, waterfall, sample paragraphs, character set, OpenType feature comparisons, and variable axis sliders.
 * **Variable Font Test HTML:** Create a Test HTML for the current font inside the current Variation Font Export folder.
 * **Webfont Test HTML:** Creates a Test HTML for the current font inside the current Webfont Export folder, or for the current Glyphs Project in the project’s export path.
 
