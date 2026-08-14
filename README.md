@@ -201,7 +201,7 @@ All the scripts show a **tooltip** when you hover the mouse pointer over their m
 * **Set Subscript and Superscript Parameters:** Measures your superior and inferior figures and derives subscript/superscript X/Y offset/size parameters. *Needs Vanilla.*
 * **Set WWS Names (Name IDs 21 and 22):** Sets WWS custom parameters (Name IDs 21 and 22) for all instances where necessary: Puts all info except RIBBI into the WWSFamilyName, and only keeps RIBBI for the WWSSubfamilyName. 
 * **Style Renamer:** Batch-add a name particle to your style names, or batch-remove it from them. Useful for switching all your styles from italic to roman naming and vice versa. *Needs Vanilla.*
-* **Vertical Metrics Creator:** Measures the glyphs and master metrics, calculates typo, hhea and win values out of them, and writes all eight parameters into every master, with the same values everywhere. *Needs Vanilla.*
+* **Vertical Metrics Creator:** Measures the glyphs and master metrics, calculates typo, hhea and win values out of them, and writes all eight parameters into every master, with the same values everywhere. Runs automatically; hold down OPTION for the dialog. *Needs Vanilla for the dialog.*
 * **Vertical Metrics Manager:** Calculate and insert values for OS/2 usWin and sTypo, hhea and fsSelection bit 7 (for preferring sTypo Metrics over usWin metrics). *Needs Vanilla.*
 
 ## Glyph Names, Notes and Unicode
