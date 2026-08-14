@@ -194,6 +194,7 @@ All the scripts show a **tooltip** when you hover the mouse pointer over their m
 * **Find and Replace In Instance Parameters:** Finds and Replace in Custom Parameters of selected instances of the current font or project file.
 * **Font Info Batch Setter:** Batch-apply settings in *Font Info > Font* to open fonts: designer, designer URL, manufacturer, manufacturer URL, copyright, version number, date and time. Useful for syncing Font Info settings across many fonts. *Needs Vanilla.*
 * **Font Info Overview:** Lists some Font Info values for all opened fonts.
+* **Parameters Creator:** Creates custom parameters in Font Info > Font, Masters, Styles, in one or all open fonts. Write one ‘parameter = value’ per line to add several at once. Counterpart to Remove Custom Parameters. *Needs Vanilla.*
 * **Remove Custom Parameters:** Removes all parameters of one kind from Font Info > Font, Masters, Instances. Useful if you have many masters or instances. *Needs Vanilla.*
 * **Set Preferred Names (Name IDs 16 and 17)  for Width Variants:** Sets Preferred Names custom parameters (Name IDs 16 and 17) for all instances, so that width variants will appear in separate menus in Adobe apps. 
 * **Set Style Linking:** Attempts to set the Bold/Italic bits.
